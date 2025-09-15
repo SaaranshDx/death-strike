@@ -1,7 +1,0 @@
-name: deathstrike
-version: '0.1'
-main: com.saaranshxd.deathstrike.deathstrike.Deathstrike
-api-version: '1.21'
-load: STARTUP
-authors: [ Saaransh_Xd ]
-description: time wand plugin
