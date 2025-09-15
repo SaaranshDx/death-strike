@@ -1,0 +1,15 @@
+name: DeathStrike
+version: 1.0
+main: com.saaranshxd.deathstrike.deathstrike.DeathStrike
+api-version: 1.19
+author: SaaranshXD
+description: Strikes lightning at player death locations
+commands:
+  deathstrike:
+    description: DeathStrike admin commands
+    usage: /deathstrike [toggle|reload|status]
+    permission: deathstrike.admin
+  permissions:
+    deathstrike.admin:
+    description: Access to DeathStrike admin commands
+    default: op

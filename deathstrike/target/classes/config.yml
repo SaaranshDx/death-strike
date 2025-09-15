@@ -1,0 +1,10 @@
+lightning:
+  enabled: true
+  delay: 10  # ticks (20 ticks = 1 second)
+
+  sound:
+    enabled: true
+
+  message:
+    enabled: true
+    text: "§6⚡ §c{player} §6got cooked ⚡"
